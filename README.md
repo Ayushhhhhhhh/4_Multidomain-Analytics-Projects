@@ -4,6 +4,20 @@ Welcome to a showcase of **real-world data analysis projects** from multiple bus
 
 ---
 
+## 🌐 Live Project Showcase
+
+<p align="center">
+  <a href="https://ayushhhhhhhh.github.io/4_Multidomain-Analytics-Projects/" target="_blank" style="text-decoration:none;">
+    <span style="font-size:1em; font-weight:bold; display:inline-flex; align-items:center; gap:8px;">
+      <span>✨</span>
+      <span>▶️ Go to live showcase</span>
+      <span>🚀</span>
+    </span>
+  </a>
+</p>
+
+---
+
 ## 📂 Projects Overview
 
 | **Domain**         | **Tools Used**                                                      | **Project Focus**                                                             |
